@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nureraclean.netlify.app/sitemap.xml
